@@ -1,2 +1,2 @@
-FROM ubuntu:16.05
+FROM ubuntu:16.04
 RUN echo "test" > /mojplik.txt
